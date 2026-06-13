@@ -101,3 +101,8 @@ Most tunables are constants near the top of `vis.js`:
 - The canvas is sized to the browser window and follows resizes.
 - BlackHole captures the system mix, so any other audio (notifications, other
   tabs) will also be visualized.
+
+<img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/de750816-3b0a-4b86-b8e0-5dde295dd79d" />
+
+<img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/20ddc5e2-8668-4991-88db-9b7365352b39" />
+
