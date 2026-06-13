@@ -104,4 +104,5 @@ Most tunables are constants near the top of `vis.js`:
 
 <img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/de750816-3b0a-4b86-b8e0-5dde295dd79d" />
 
+<img width="932" height="808" alt="image" src="https://github.com/user-attachments/assets/95955932-c988-4dec-a4f8-883abfd12472" />
 
